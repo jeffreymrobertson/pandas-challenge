@@ -7,7 +7,7 @@ These are the files for the Module 4 challenge.
 -[Contributing](#contributing)
 
 ## About
-All the contents are in the PyCitySchools folder
+All the contents are in the Start_Code/PyCitySchools folder
 
 ## Usage
 Clone the github located at https://github.com/jeffreymrobertson/pandas-challenge and run the PyCitySChools_starter.ipynb
